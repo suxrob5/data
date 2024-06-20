@@ -4,6 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
+    "dev": "json-server ./main.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Suxrob",
